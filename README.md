@@ -1,7 +1,4 @@
-# Hello-world
-I'm just following the Git guide.
-Hi there. 
-Im soon launching a website.
+
 <html>
 	<head>
 		<title> hELLO WORLD </title>
@@ -26,8 +23,8 @@ Wow. You really should not do that.</p>
 			<p>Goodbye Moon Men.</p>
 
 	<!--IMAGE--> 	
-<a href="image.jpg" target="_blank"> 		
-<img src="image.jpg" height="400" width="400" />
+<a href="bac.jpg" target="_blank"> 		
+<img src="bac.jpg" height="400" width="400" />
 </a>
 
 <p/>
